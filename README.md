@@ -531,7 +531,10 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [DVC](https://github.com/iterative/dvc)             | Data Version Control - Git for Data & Models - ML Experiments Management.                                                                                       | ![GitHub Badge](https://img.shields.io/github/stars/iterative/dvc.svg?style=flat-square)       |
 | [Delta-Lake](https://github.com/delta-io/delta)     | Storage layer that brings scalable, ACID transactions to Apache Spark and other engines.                                                                        | ![GitHub Badge](https://img.shields.io/github/stars/delta-io/delta.svg?style=flat-square)      |
 | [Pachyderm](https://github.com/pachyderm/pachyderm) | Pachyderm is a version control system for data.                                                                                                                 | ![GitHub Badge](https://img.shields.io/github/stars/pachyderm/pachyderm.svg?style=flat-square) |
-| [Quilt](https://github.com/quiltdata/quilt)         | A self-organizing data hub for S3.                                                                                                                              | ![GitHub Badge](https://img.shields.io/github/stars/quiltdata/quilt.svg?style=flat-square)     |
+| [Quilt](https://github.com/quiltdata/quilt)         | A self-organizing data hub for S3.                                                                                                                              | ![GitHub Badge](https://img.shields.io/github/stars/quiltdata/quilt.svg?style=flat-square) 
+
+| [AI Context Purifier](https://blogspot.com) | A lightweight, free web utility to compress text datasets and remove duplicate lines to slash AI API token context costs. |
+|
 
 **[⬆ back to ToC](#table-of-contents)**
 
